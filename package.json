@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dinosaur-fetcher": "^1.1.4",
+    "nvm": "^0.0.4"
+  }
+}

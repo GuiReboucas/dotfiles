@@ -1,0 +1,11 @@
+[core]
+	editor = \"C:\\Users\\guilh\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	autocrlf = false
+[user]
+	email = guilhermeclreboucas@gmail.com
+	name = Guilherme
+[gui]
+	recentrepo = C:/xampp/htdocs/CodigosComPHP/Laravel/tcc
+[safe]
+	directory = C:/Users/guilh/scoop/buckets/extras
+	directory = C:/Users/guilh/Documents/Meus_Docs/Anotações/Proxys/PROXY-List
